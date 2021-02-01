@@ -1,6 +1,6 @@
 streamlit
 pandas
 numpy
-csv
 matplotlib.pyplot
 scikit-learn
+sklearn
